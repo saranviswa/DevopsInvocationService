@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ls9/uQOuQjXgxhToE7TXSn9BwXSm3O6H9EtXVGAR5Y/z7tPbbVHEGqhepMggrVLAoPAVnR3S3eZ7pHq1WN3c2g==",
+  "success": true,
+  "projectFilePath": "D:\\Cognizant_internship\\EnhancementProject\\DevopsInvocationService\\DevopsInvocationService\\DevopsInvocationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bsara\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
